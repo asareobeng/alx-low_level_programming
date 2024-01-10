@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchar_recursion - function name
+ * _put_recursion - function name
  * @s: parameter of the function
  */
 
